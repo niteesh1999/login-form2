@@ -1,0 +1,4 @@
+function getform()
+{
+  alert('jcxghjh');
+}
